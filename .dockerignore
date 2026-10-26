@@ -1,0 +1,8 @@
+.git
+.idea
+**/build
+**/node_modules
+*.md
+!server/priv/**
+**/.lustre
+server/priv/static/client.js
