@@ -1,0 +1,6 @@
+build/
+node_modules/
+.idea/
+erl_crash.dump
+.lustre/
+server/priv/static/client.js
